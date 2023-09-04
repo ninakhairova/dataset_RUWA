@@ -1,5 +1,5 @@
 # RUWA dataset
-RUWA (Russian-Ukraine WAr) dataset includes more than 16,500 news articles from several media outlets in Ukraine, Russia, European, Asia, and the USA covering the nine  Russian-Ukraine war events from February 2022 to September 2022.  Table 1 and table 2 show the article distributions by selected news outlets and events. 
+RUWA (Russian-Ukraine WAr) dataset includes more than 16,500 links of news articles from several media outlets in Ukraine, Russia, European, Asia, and the USA covering the nine  Russian-Ukraine war events from February 2022 to September 2022.  Table 1 and table 2 show the article distributions by selected news outlets and events. 
 ##### Distribution dataset articles by outlets
 
 | Sources | Articles |
@@ -28,16 +28,16 @@ RUWA (Russian-Ukraine WAr) dataset includes more than 16,500 news articles from 
 |Theatre|Ukraine says Russia Just Bombed a Theater in Ukraine Where Hundreds Were Sheltering|761|
 
 ## Dataset columns
-| Name | Discription |
+| Name | Description |
 | --------- | --------- |
-| src | Link to the source |
-| desc |   |
-| title |Title of the article   |
-| ref |   |
-| Date | publication date |
-| Site| Site of an article |
+| src | Link to a source |
+| desc | Subheading of an article  |
+| title |Title of an article   |
+| ref | Information related to an article |
+| Date | Date of the publication |
+| Site| Site of a news outlet|
 |Event|Event name     |
-|KW|   key words|
+|KW|   Key words|
 
 ## Copyright
 To not violate the copyright of the articles, we do not share them in their original format, but we include a link to the original article.
@@ -49,7 +49,7 @@ The preprocessing of the articles includes:
 - removing all kinds of sentences representation; 
 - removing all symbols except the English alphabet, digits, and hyphens.
 - removing all words shorter than 3 letters;
-- conversion to lower case;
+- conversion to lowercase;
 - stemming all words;
 - transferring all date representation into ISO-format
 
