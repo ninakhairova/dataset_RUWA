@@ -30,15 +30,14 @@ RUWA (Russian-Ukraine WAr) dataset includes more than 16,500 news articles from 
 ## Dataset columns
 | Name | Discription |
 | --------- | --------- |
-| src |  |
+| src | Link to the source |
 | desc |   |
-| title |   |
+| title |Title of the article   |
 | ref |   |
 | Date | publication date |
 | Site| Site of an article |
 |Event|Event name     |
 |KW|   key words|
-|Content_cleared|Content after preprocessing|
 
 ## Copyright
 To not violate the copyright of the articles, we do not share them in their original format, but we include a link to the original article.
