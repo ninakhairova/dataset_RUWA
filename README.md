@@ -56,8 +56,7 @@ The preprocessing of the articles includes:
 
 
 ## License
-
-MIT
+CC BY-NC-SA 4.00
 
 
  
