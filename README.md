@@ -23,7 +23,7 @@ RUWA (Russian-Ukraine WAr) dataset includes more than 16,500 news articles from 
 | Nuclear |Nuclear Plant |3385|
 | Prisoners | |583|
 | Railway| |1486|
-|Sinking|Mosdva Sinking   |184|
+|Sinking|Russia's top warship explodes, on fire in the Black Sea  |184|
 |Supermarket|   |441|
 |Theatre|Mariupol Theatre|761|
 
