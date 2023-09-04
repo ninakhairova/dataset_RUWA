@@ -17,15 +17,15 @@ RUWA (Russian-Ukraine WAr) dataset includes more than 16,500 news articles from 
 ##### Distribution dataset articles by events
 | Event | Description |Articles|
 | ------ | ------ |------ |
-|Azovstal | | 1817|
-| Begining |  |6490|
-| Bucha |  |1431|
-| Nuclear |Nuclear Plant |3385|
+|Azovstal |Russia says Azovstal siege is over, in full control of Mariupol | 1817|
+| Begining |NATO officials say Russian attack of Ukraine has begun  |6490|
+| Bucha |Ukraine says In a Kyiv Suburb,'They Shot Everyone They Saw.'  |1431|
+| Nuclear |Ukraine says  Ukraine Zaporizhzhia nuclear plant under Russian orders |3385|
 | Prisoners | |583|
-| Railway| |1486|
+| Railway|Ukraine says dozens killed in Russian rocket attack on Kramatorsk train station |1486|
 |Sinking|Russia's top warship explodes, on fire in the Black Sea  |184|
 |Supermarket|   |441|
-|Theatre|Mariupol Theatre|761|
+|Theatre|Ukraine says Russia Just Bombed a Theater in Ukraine Where Hundreds Were Sheltering|761|
 
 ## Dataset columns
 | Name | Discription |
