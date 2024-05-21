@@ -21,10 +21,10 @@ RUWA (Russian-Ukraine WAr) dataset includes more than 16,500 links of news artic
 | Begining |NATO officials say Russian attack of Ukraine has begun  |6490|
 | Bucha |Ukraine says In a Kyiv Suburb,'They Shot Everyone They Saw.'  |1431|
 | Nuclear |Ukraine says  Ukraine Zaporizhzhia nuclear plant under Russian orders |3385|
-| Prisoners | |583|
+| Prisoners |Olenivka prison massacre |583|
 | Railway|Ukraine says dozens killed in Russian rocket attack on Kramatorsk train station |1486|
 |Sinking|Russia's top warship explodes, on fire in the Black Sea  |184|
-|Supermarket|   |441|
+|Supermarket|  Kremenchuk shopping mall attack |441|
 |Theatre|Ukraine says Russia Just Bombed a Theater in Ukraine Where Hundreds Were Sheltering|761|
 
 ## Dataset columns
