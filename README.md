@@ -60,6 +60,8 @@ If you use this dataset in your work, please cite the following article:
 BibTeX citation:
 @article{ruwa2023,
   author = {Khairova, Nina and Ivasiuk, Bogdan and Lo Scudo, Fabrizio and Comito, Carmela and Galassi, Andrea},
+  
+  
   title = {A First Attempt to Detect Misinformation in Russia-Ukraine War News through Text Similarity},
   journal = {Proceedings of the 4th Conference on Language, Data and Knowledge (LDK)},
   year = {2023},
