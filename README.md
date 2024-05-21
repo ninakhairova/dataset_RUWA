@@ -58,6 +58,7 @@ If you use this dataset in your work, please cite the following article:
 [N Khairova, B Ivasiuk, F LO SCUDO, C Comito, A Galassi. "A First Attempt to Detect Misinformation in Russia-Ukraine War News through Text Similarity"// Proceedings of the 4th Conference on Language, Data and Knowledge (LDK), 559-564](https://www.researchgate.net/profile/Andrea-Galassi/publication/375525802_A_First_Attempt_to_Detect_Misinformation_in_Russia-Ukraine_War_News_through_Text_Similarity/links/654df4b0b86a1d521bc8b006/A-First-Attempt-to-Detect-Misinformation-in-Russia-Ukraine-War-News-through-Text-Similarity.pdf) 
 
 BibTeX citation:
+
 @article{ruwa2023,
   author = {Khairova, Nina and Ivasiuk, Bogdan and Lo Scudo, Fabrizio and Comito, Carmela and Galassi, Andrea},
   title = {A First Attempt to Detect Misinformation in Russia-Ukraine War News through Text Similarity},
